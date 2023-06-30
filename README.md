@@ -8,11 +8,14 @@
 
 ## PROJECTS
 **Web Development**
-  - [Travel App](https://www.traveltuk.com) - Web application to hire travel guides, book hotels, and rent a vehicle anywhere in the world, with React, Firebase, and stripe API
-  - [Quiz app](https://vibrant-easley-3eddc6.netlify.app/) - Application to increase General Knowledge using Trivia questions from OpenTDB API, built with react, [code](https://github.com/singwithaashish/quiz-react)
   - [NoCodio](https://nocodio.com) A web hub for all the no-code tools across the internet in one place. Built with React.js and Firebase, This tool enables users to find any tool with a built-in search and sorting feature. Built for a Dutch client and received a 5-star rating for excellent work and timely delivery.
+  - [Travel App](https://www.traveltuk.com) - Web application to hire travel guides, book hotels, and rent a vehicle anywhere in the world, with React, Firebase, and stripe API
+  - [Pomotodo](https://pomotodo-five.vercel.app/) A Pomodoro-based tasks management app built with NextJs, Typescript, GrommetUi, PostgreSQL, and Prisma ORM deployed to Supabase. [CODE](https://github.com/singwithaashish/pomotodo)
+  - [Todo App with subtask](https://startling-zabaione-d1ae2e.netlify.app) A sipmple todo app that has subtask feature. Built with React, Typescript, and tailwind CSS [CODE](https://github.com/singwithaashish/todo-with-subtasks)
+  -  [Quiz app](https://vibrant-easley-3eddc6.netlify.app/) - Application to increase General Knowledge using Trivia questions from OpenTDB API, built with react, [code](https://github.com/singwithaashish/quiz-react)
   - [Landing Page](https://youthful-ptolemy-aa0b13.netlify.app/) - Built with React and bootstrap, [code](https://github.com/singwithaashish/landing-page-01)
   - [Javascript Weather App](https://steady-narwhal-829d75.netlify.app/) - Find weather details like atmosphere, temperature, and wind of any location, City in a single app, [code](https://github.com/singwithaashish/js_weather_app)
+  - 
 
 
 **Application Development**
