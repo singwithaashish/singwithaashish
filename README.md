@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI and UX design as well as image editing
 - 💞️ I’m looking to collaborate on physical Hackathons in Bangalore
 - 📫 How to reach me singwithaashish@gmail.com
-- 💼 [My Portfolio](https://www.aashishsingh.com.np)
+- 💼 [My Portfolio](https://www.aashishsingh.com.np) | [Download Resume](https://drive.google.com/uc?export=download&id=1Wm4WZisktp0aP__G6SUdmLq7KRYGcSMy)
 
 
 ## PROJECTS
