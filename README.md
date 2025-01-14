@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @singwithaashish, a freelancer and software developer
+- 👋 Hi, I’m @singwithaashish, a software developer and freelancer
 - 👀 I’m interested in Web development with Mern stack and app development with Flutter, and as a hobby, I make games as well
 - 🌱 I’m currently learning UI and UX design as well as image editing
-- 💞️ I’m looking to collaborate on physical Hackathons in Bangalore
+- 💞️ I’m looking for new and exciting projects to work on, as freelancer or co-founder
 - 📫 How to reach me singwithaashish@gmail.com
 - 💼 [My Portfolio](https://www.aashishsingh.com.np) | [Download Resume](https://drive.google.com/uc?export=download&id=1Wm4WZisktp0aP__G6SUdmLq7KRYGcSMy)
 
