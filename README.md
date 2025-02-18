@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI and UX design as well as image editing
 - 💞️ I’m looking for new and exciting projects to work on, as freelancer or co-founder
 - 📫 How to reach me singwithaashish@gmail.com
-- 💼 [My Portfolio](https://www.aashishsingh.com.np) 
+- 💼 [My Portfolio](https://www.aashishsingh.com.np) | [Resume](https://docs.google.com/document/d/1kGaeixM62vv18BGZVucPZ2nha1LYNDnL/edit?usp=sharing&ouid=102849608710173532325&rtpof=true&sd=true)
 
 
 ## PROJECTS
@@ -26,6 +26,12 @@
   - Invite - An app to share and invite people to events and volunteering, [code](https://github.com/singwithaashish/envited_social_activites)
   - Meme Addict - An app that fetches memes from the internet and also allows to create and download memes
   - Social Media App - An app that allows users to post and share content with all other app users, [code](https://github.com/singwithaashish/social_app)
+
+
+**OpenSource Contributions**
+  - Fix Null Check Error in a Flutter package that have been used 30k times - [PR](https://github.com/oi-narendra/multiselect-dropdown/pull/21)
+  - Added new feature to make text direction customisable in [Flutter Chat Widget](https://pub.dev/packages/chat_package) - [PR](https://github.com/MOUKZ/chat_package/pull/14)
+  - Added Typescript support to llama-tokenizer-js npm package - [issue](https://github.com/belladoreai/llama-tokenizer-js/issues/12)
 
 **Web Scraping**
   - GreenAcers Scraper - A python program that scrapes all the properties listed for sale at a certain location in www.green-acres.pt, [code](https://github.com/singwithaashish/green-acers-scraper)
