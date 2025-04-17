@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI and UX design as well as image editing
 - 💞️ I’m looking for new and exciting projects to work on, as freelancer or co-founder
 - 📫 How to reach me singwithaashish@gmail.com
-- 💼 [My Portfolio](https://www.aashishsingh.com.np) | [Resume](https://docs.google.com/document/d/1kGaeixM62vv18BGZVucPZ2nha1LYNDnL/edit?usp=sharing&ouid=102849608710173532325&rtpof=true&sd=true)
+- 💼 [My Portfolio](https://www.aashishsingh.com.np)
 
 
 ## PROJECTS
